@@ -248,7 +248,6 @@ namespace lachugin
     calculateCounts(circles, size, tries, generator, minX, maxX, minY, maxY, uCount, iCount);
   }
 
-
 }
 
 int main(int argc, char* argv[])
